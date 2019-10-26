@@ -1,0 +1,6 @@
+#chatbot {
+  width: 350px !important;
+  height: 650px;
+  border-radius: 20px;
+  animation: slide-up 3s ease;
+}

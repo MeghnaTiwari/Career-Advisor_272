@@ -1,0 +1,53 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 350px !important;
+  border-radius: 10px;
+  background: #112231;
+  margin-top: 100px;
+  color: rgb(48, 46, 46);
+  bottom: 50px;
+}
+
+.ant-carousel .slick-dots {
+  bottom: 50px;
+}
+
+.ant-carousel .slick-dots li button {
+  height: 20px !important;
+  width: 20px !important;
+  border-radius: 100px;
+  background: rgb(206, 203, 203) !important;
+  transition: all 0.3s;
+  margin-top: -20px;
+}
+
+.labelitem {
+  color: whitesmoke;
+  margin: 25px auto;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+}
+
+
+
+
+
+.button{
+  margin: 30px auto;
+  margin-left: 520px;
+  background: #112231 !important;
+  color: white !important;
+
+}
+
+#emailinput{
+  width: 300px !important;
+  height: 40px !important;
+}
+
+#emaildiv{
+  margin-left: 420px !important;  
+}

@@ -1,0 +1,23 @@
+.navbarclass {
+  height: 40px !important;
+}
+
+#topnavbar {
+  text-align: right;
+  float: right;
+}
+
+#login {
+  float: right;
+}
+
+#title {
+  margin-left: 140px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+}
